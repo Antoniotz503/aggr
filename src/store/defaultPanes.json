@@ -26,32 +26,7 @@
         "OKEX:BTC-USDT-SWAP"
       ]
     },
-    "trades": {
-      "id": "trades",
-      "name": "",
-      "type": "trades",
-      "markets": [
-        "BINANCE_FUTURES:btcusd_perp",
-        "BITFINEX:BTCUSD",
-        "BITMEX:XBTUSD",
-        "BYBIT:BTCUSD",
-        "COINBASE:BTC-USD",
-        "DERIBIT:BTC-PERPETUAL",
-        "BINANCE:btcusdt",
-        "BINANCE_FUTURES:btcusdt",
-        "BITFINEX:BTCUST",
-        "BITFINEX:BTCF0:USTF0",
-        "BITMEX:XBTUSDT",
-        "BYBIT:BTCUSDT",
-        "COINBASE:BTC-USDT",
-        "BITSTAMP:btcusd",
-        "OKEX:BTC-USD-SWAP",
-        "OKEX:BTC-USDT-SWAP"
-      ],
-      "settings": {
-        "showLiquidations": false
-      }
-    },
+    
     "liquidations": {
       "id": "liquidations",
       "name": "REKTS",
