@@ -6,7 +6,7 @@
   "disableAnimations": false,
   "autoHideHeaders": true,
   "autoHideNames": true,
-  "theme": "dark",
+  "theme": "light",
   "backgroundColor": "rgb(23,27,41)",
   "textColor": "",
   "buyColor": "rgb(100, 157, 102)",
